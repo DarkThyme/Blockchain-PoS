@@ -26,7 +26,7 @@ Requests (P2P Network Communication)
 
  Usage Instructions
 Clone the repository:
-git clone https://github.com/your-username/Blockchain-PoS.git
+git clone https://github.com/DarkThyme/Blockchain-PoS.git
 cd Blockchain-PoS
 
 Install dependencies:
